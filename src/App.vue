@@ -9,7 +9,7 @@ const USER_DOWNLOAD_UNAVAILABLE = '该资源暂不可用，请稍后再试。'
 const loading = ref(true)
 const error = ref('')
 const page = ref({
-  pageTitle: '下载中心',
+  pageTitle: '我的分享',
   subtitle: '',
   items: [],
 })
